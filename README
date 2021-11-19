@@ -1,0 +1,7 @@
+## motif cluster example
+Step1: Use motifcluster.sh to perform motif clustering analysis based on output from mCross(.mat file)
+Step2: Plot motif cluster tree using plot_motiftree_fromStamp.R
+Check help message for each script.
+Requirements:
+Stamp: https://github.com/seqcode/stamp
+R packages: MotIV; motifStack; getopt
