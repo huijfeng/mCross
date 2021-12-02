@@ -1,4 +1,5 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
+#/usr/bin/perl -w
 
 use strict;
 
