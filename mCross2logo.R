@@ -1,4 +1,5 @@
-#!/usr/bin/Rscript
+#!/usr/bin/env Rscript
+
 motifsummary <- function(motif.mat, trim=NULL, seqformat='dna'){
   motif.info <- list()
   motif <- readLines(motif.mat)
